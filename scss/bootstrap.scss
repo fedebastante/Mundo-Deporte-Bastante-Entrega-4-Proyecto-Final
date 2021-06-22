@@ -53,7 +53,7 @@ $doscientos:200px;
 $trescientos:300px;
 $cientocincuenta:150px;
 $treinta:30px;
-$naranja:orange;
+$naranja:darkorange;
 $negro:black;
 $centro:center;
 $blanco: white;
@@ -67,7 +67,7 @@ width: $cien;
 height: $cien;
 }
 body {
-background-color: $orange;
+background-color: $naranja;
 padding: $cero;
 margin: $cero;
 }
@@ -85,7 +85,7 @@ width: $cien;
 color: $negro;
 }
 .bg-light {
-background-color: $naranja !important;
+background-color: $naranja;
 }
 .alinear {
 align-items: $centro;

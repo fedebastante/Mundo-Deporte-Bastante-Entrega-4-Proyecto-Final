@@ -7195,7 +7195,7 @@ footer .img-fluid {
   height: 100px; }
 
 body {
-  background-color: #fd7e14;
+  background-color: darkorange;
   padding: 0px;
   margin: 0px; }
 
@@ -7213,7 +7213,7 @@ svg {
   color: black; }
 
 .bg-light {
-  background-color: orange !important; }
+  background-color: darkorange; }
 
 .alinear {
   align-items: center; }
@@ -7228,7 +7228,7 @@ svg {
   padding-bottom: 20px; }
 
 p {
-  color: orange;
+  color: darkorange;
   font-family: 'Newsreader', serif;
   font-weight: 300;
   margin-bottom: 0px; }
@@ -7238,7 +7238,7 @@ p {
   font-weight: 800; }
 
 .table {
-  color: orange;
+  color: darkorange;
   background-color: black;
   font-family: 'Newsreader', serif;
   font-weight: 300; }
@@ -7266,7 +7266,7 @@ h5 {
   filter: drop-shadow(1px 1px); }
 
 h3 {
-  color: orange;
+  color: darkorange;
   text-align: center;
   font-family: 'Ubuntu', sans-serif;
   font-weight: 300; }
@@ -7298,8 +7298,3 @@ li {
 
 .fotos {
   padding: 1.25rem; }
-
-@media (max-width: 414px) {
-div div img {
-height: 200px;
-}
