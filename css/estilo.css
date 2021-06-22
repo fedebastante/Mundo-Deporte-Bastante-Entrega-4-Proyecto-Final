@@ -7213,7 +7213,7 @@ svg {
   color: black; }
 
 .bg-light {
-  background-color: darkorange; }
+  background-color: darkorange !important; }
 
 .alinear {
   align-items: center; }
